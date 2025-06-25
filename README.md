@@ -1,4 +1,4 @@
-# Projeto Calculadora IMC (Índice de Massa Corporal)
+# 📊 Projeto Calculadora IMC (Índice de Massa Corporal)
 
 Este é um projeto em C# desenvolvido com o objetivo de calcular o IMC (Índice de Massa Corporal) de uma pessoa a partir do seu nome, peso e altura, além de classificar o resultado com base nas faixas recomendadas pela OMS.
 
