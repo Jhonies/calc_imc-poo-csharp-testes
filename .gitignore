@@ -1,0 +1,12 @@
+# Arquivos do Visual Studio
+.vs/
+*.user
+*.suo
+
+# Binários e build
+bin/
+obj/
+TestResults/
+
+# Outros
+*.log
