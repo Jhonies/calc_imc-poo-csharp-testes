@@ -54,6 +54,7 @@ Digite seu peso (kg): 75
 Digite sua altura (m): 1.78
 
 João, seu IMC é 23.67 e você está classificado como: Peso normal
+```
 
 ---
 
